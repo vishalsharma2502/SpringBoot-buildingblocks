@@ -10,4 +10,5 @@ public class SpringbootBuildingblocksApplication {
         SpringApplication.run(SpringbootBuildingblocksApplication.class, args);
     }
 
+
 }
